@@ -50,10 +50,11 @@ a{
 }
 
 footer{
+    background: lightblue;
     text-align: center;
     font-weight: bold;
     margin-top: 5%;
-    margin-bottom: 2%;
+  
 }
 
 a:hover{
